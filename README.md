@@ -68,7 +68,7 @@ the above for the ability to be pasted anywhere as-is.
 <img width="620" height="477" alt="image" src="https://github.com/user-attachments/assets/36262188-cb1f-4857-903c-bffcb5227fb0" />
 
 Okay, circ movement starts from a base—meaning all normal attributes—then it goes to what you have created but incremented by 1
-until it reaches the set design. Then it loops back to normal. This is called a circ movement. Give this word: circ movement.
+until it reaches the set design. Then it loops back to normal. This is called a circ movement. Give this word circ movement.
 
 <img width="602" height="460" alt="image" src="https://github.com/user-attachments/assets/355684d0-a2e5-443f-9aee-6e6f03601b4b" />
 
